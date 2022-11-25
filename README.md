@@ -4,7 +4,9 @@ Introduction Spring Boot
 
   - O que é o Spring Boot?
 
-    - 
+    - Criado pela Spring Source em 2012
+    - Facilita setup de projetos Spring
+    - Sem necessidade de criar arquivos de configuração
 
   - Quais problemas Resolvem o Spring Boot?
 
@@ -17,7 +19,7 @@ Introduction Spring Boot
     - MUito tempo gasto em configurações 
 
     - Perda de foco em valor
-
+  
       
 
 
